@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang =  "no">
+    <head>
+        <meta charset = "UTF - 8">
+        <title>Min første lyd og bildefil</title>
+    </head>
+    <body>
+        <h1>Har du lyst å besøke <b>Miami?</b></h1>
+        <p> Florida er et feriemål for små og store med god kombinasjon av badeferie, fornøyelsesparker og aktiviteter. Hva med safari i Everglades, 
+	fiskelykke på Gulfkysten eller bilferie til Key West?
+	Turistmagneten Orlando med Walt Disney World, Sea World og Universal Studios er et must for de fleste. Amerikaspesialisten skreddersyr 
+	din reise til Florida. </p>
+	<br>
+	<h2> Florida </h2>
+	<p>Se spennende reiseforslag til <b>Florida</b>
+	Vi tilbyr utleie av hus en rekke steder i Florida. Husene varierer i standard og pris – mye avhenger av beliggenhet. Generelt er det 
+	meget god standard og husene har svømmebasseng. Vi tilbyr hus for inntil 8 personer – inntil 10 personer i Orlando. I tillegg til hus 
+	tilbyr vi leiligheter flere steder. Dette gjelder blant annet Fort Lauderdale og Miami og Florida Keys.Kombiner gjerne med et herlig cruise</p>
+        
+	<audio src= "Deadmau5.mp3" controls></audio>
+	    
+        <h2>Hvem har ikke hørt om Daytona Bike Week og Springbreak i USA!</h2>
+        <p>  <b>Daytona</b> er også kjent for sine fantastiske strender. 
+	Ellers i året er Daytona et rolig sted som tiltrekker seg både familier og mange av USA’s ”Snowbirds” (pensjonister fra nord). </p>
+	
+	<img src= "Miami.gif"
+	width= "680"
+	height= "300"
+	title= "Miami by night"
+	alt= "Bilde av Miami">
+	<h2> I Florida kan du ta levende bilder</h2>
+	<p>Mange turister besøker Florida hele året fordi det har et godt og varmt klima hele året. Det er lett å bli kjent med andre turister og 
+	stedet byr på mange aktiviteter</p>
+
+	<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="53%">
+	<p>Florida er en svært levende by :-) </p>
+
+	<h3>Biketoberfest</h3>
+
+	<p>Her er det masse golfmuligheter. Fra Orlando flyplass (ca to timer) går det daglige busser til Daytona, men vi foreslår
+ 	leiebil eller leie av motorsykkel. Nå arrangeres også <b>Biketoberfest</b> i oktober som samler ytterligere motorsykkelfrelste 
+	i dette sommerparadiset. </p>
+    </body>
+</html>
