@@ -30,3 +30,10 @@ img {
   font-size: 24px;
   font-weight: 300;
 }
+
+.distinction {
+  color: white;
+  background: rgb(87, 87, 87);
+  line-height: 180%;
+  padding: 3px 10px;
+}
